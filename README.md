@@ -1,5 +1,5 @@
 # Hybrid-modeling-of-bioreactor-with-LSTM
-Deep hybrid modeling of a CHO bioreactor data using Long Short-Term Memory (LSTM) networks combined with first principles equations
+Deep hybrid modeling of a cell culture bioreactor data using Long Short-Term Memory (LSTM) networks combined with first principles equations
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -30,6 +30,8 @@ training process. Furthemore, several ways to plot and analyse the results**
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-Data for the paper: Deep hybrid modeling of a HEK293 process: combining Long Short-Term Memory (LSTM) networks with first principles equations												
- João R. C. Ramos1, #, José Pinto1, #, Gil Poiares-Oliveira1, Ludovic Peeters2, Patrick Dumas2, Rui Oliveira1																							
+Data for the paper: 
+Deep hybrid modeling of a HEK293 process: combining Long Short-Term Memory (LSTM) networks with first principles equations												
+ João R. C. Ramos1, #, José Pinto1, #, Gil Poiares-Oliveira1, Ludovic Peeters2, Patrick Dumas2, Rui Oliveira1	
+ -----------------------------------------------------------------------------------------------------------------------------------------------------
  
