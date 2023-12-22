@@ -43,7 +43,7 @@ training process. Furthemore, several ways to plot and analyse the results**
 
  			                    Br5		
                         |
- 		                     |
+ 		                     | 
  		          Br1 -------------- Br2		
  		          |		                |
  		          |                  |
