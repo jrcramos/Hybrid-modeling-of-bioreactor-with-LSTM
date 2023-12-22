@@ -22,7 +22,7 @@ training process. Furthemore, several ways to plot and analyse the results**
  which import the concentrations, feed and other relevant informations.
  Futhermore when imported into matlab data_cho(i).accum is the total
  amount of a metabolite that should be in the bioreactor over time, it is
- the "sum of all added concentrations*volume - sample volume*bioreactor volume". The
+ the "sum of all added concentrations × volume added - sample volume × reactor concentration". The
  file also contains data_cho(i).m_r which are the reacted amounts over
  time. The calculation of data_cho(i).accum is made during the process of
  data_cho(i).m_r calculation. The latter is described in the supplementary
