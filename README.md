@@ -1,15 +1,6 @@
 # Hybrid-modeling-of-bioreactor-with-LSTM
 Deep hybrid modeling of a CHO bioreactor data using Long Short-Term Memory (LSTM) networks combined with first principles equations
-------------------------------------------------------------------------------------------------------------------------------------------------------
 
- 			------------------------------------------------------------------------------------------------------------------------------------------------------
- Data for the paper: Deep hybrid modeling of a HEK293 process: combining Long Short-Term Memory (LSTM) networks with first principles equations												
- João R. C. Ramos1, #, José Pinto1, #, Gil Poiares-Oliveira1, Ludovic Peeters2, Patrick Dumas2, Rui Oliveira1																							
- 1 LAQV-REQUIMTE, Department of Chemistry, NOVA School of Science and Technology, NOVA University Lisbon, 2829-516 Caparica, Portugal 												
- 2 GSK, 89 rue de l'Institut, 1330 Rixensart, Belgium																							
- *Correspondence:												
- Rui Oliveira												
- rmo@fct.unl.pt
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **To run hybrid model training or simulation of two previously trained hybrid model
@@ -39,26 +30,6 @@ training process. Furthemore, several ways to plot and analyse the results**
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
- DoE for experiment Br1 - Br9 (see data_cho.xlsx):
-------------------------------------------------------------------------------------------------------------------------------------------------------
-                       Br5		
-                        |
- 		                     | 
- 		          Br1 -------------- Br2		
- 		          |		                |
- 		          |                  |
-     Br7 ----|	         Br9     |---- Br8
- 		          |		                |
- 		          |		                |
- 		         Br3 -------------- Br4		
- 			                  |			
- 			                  |			
- 			                 Br6					
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 Data for the paper: Deep hybrid modeling of a HEK293 process: combining Long Short-Term Memory (LSTM) networks with first principles equations												
  João R. C. Ramos1, #, José Pinto1, #, Gil Poiares-Oliveira1, Ludovic Peeters2, Patrick Dumas2, Rui Oliveira1																							
  
