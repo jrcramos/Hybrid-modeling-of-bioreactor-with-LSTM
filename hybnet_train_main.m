@@ -53,7 +53,7 @@
 clc
 close all
 w = warning ('off','all');
-
+addpath(genpath(cd))
 %---------------------------------------------------------------------------
 % define the layers of each model structures, names to save their results to, number of
 % iterations to use (niter), number of repetitions (nruns), number of
