@@ -1,7 +1,8 @@
 # Hybrid-modeling-of-bioreactor-with-LSTM
 Deep hybrid modeling of a CHO bioreactor data using Long Short-Term Memory (LSTM) networks combined with first principles equations
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 			------------------------------------------------------------------------------------------------------------------------------------------------------
  Data for the paper: Deep hybrid modeling of a HEK293 process: combining Long Short-Term Memory (LSTM) networks with first principles equations												
  João R. C. Ramos1, #, José Pinto1, #, Gil Poiares-Oliveira1, Ludovic Peeters2, Patrick Dumas2, Rui Oliveira1																							
  1 LAQV-REQUIMTE, Department of Chemistry, NOVA School of Science and Technology, NOVA University Lisbon, 2829-516 Caparica, Portugal 												
@@ -35,19 +36,18 @@ training process. Furthemore, several ways to plot and analyse the results**
  time. The calculation of data_cho(i).accum is made during the process of
  data_cho(i).m_r calculation. The latter is described in the supplementary
  material of this paper
-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
  DoE for experiment Br1 - Br9 (see data_cho.xlsx):
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 			                    Br5		
+                       Br5		
                         |
  		                     | 
  		          Br1 -------------- Br2		
  		          |		                |
  		          |                  |
-     Br7 ----|	       Br9	      |---- Br8
+     Br7 ----|	         Br9     |---- Br8
  		          |		                |
  		          |		                |
  		         Br3 -------------- Br4		
