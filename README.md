@@ -9,8 +9,8 @@ This codes shows how to define model structures and which parameter to use to ru
 training process. Furthemore, several ways to plot and analyse the results**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
- This code "hybnet_train_main.m" comes with two predefined hybrid model structures one FFNN and
- one LSTM. Both structures were pre-trained and the data saved in  "hybrid_FFNN_1.mat"
+ This code "hybnet_train_main.m" comes with two predefined hybrid model structures one Feed Forward Neural Network (FFNN) and
+ one Long Short-Term Memory (LSTM). Both structures were pre-trained and the data saved in  "hybrid_FFNN_1.mat"
  and "hybrid_LSTM_1.mat". It asks if the user wants to train these model structures again
  or simulate from saved files. Different plots are generated and a excel file
  "structures_fit_results.xlsx" with the overall results.
