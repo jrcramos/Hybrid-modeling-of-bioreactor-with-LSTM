@@ -32,6 +32,12 @@ training process. Furthemore, several ways to plot and analyse the results**
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Data for the paper: 
 Deep hybrid modeling of a HEK293 process: combining Long Short-Term Memory (LSTM) networks with first principles equations												
- João R. C. Ramos 1, #, José Pinto 1, #, Gil Poiares-Oliveira 1, Ludovic Peeters 2, Patrick Dumas 2, Rui Oliveira 1	
- -----------------------------------------------------------------------------------------------------------------------------------------------------
+João R. C. Ramos, José Pinto, Gil Poiares-Oliveira, Ludovic Peeters, Patrick Dumas, Rui Oliveira
+
+How to cite this article: 
+Ramos, J. R. C., Pinto, J., Poiares‐Oliveira, G., Peeters, L., Dumas, P., & Oliveira, R. (2024). Deep hybrid modeling of 
+a HEK293 process: Combining long short‐term memory networks with first principles equations.
+Biotechnology and Bioengineering, 1–15.
+https://doi.org/10.1002/bit.28668
+-----------------------------------------------------------------------------------------------------------------------------------------------------
  
