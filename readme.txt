@@ -20,18 +20,16 @@ training process. Furthemore, several ways to plot and analyse the results
  or simulate from saved files. Different plots are generated and a excel file
  "structures_fit_results.xlsx" with the overall results.
 
- The folder ~/data contains data.xlsx with the feed DoE details and the
- simulations of concentrations over time generated using a dynamic model. 
- This is a synthetic dataset, the model was created based on the metabolic model 
- proposed by Robitaille et al. (2015). It also contains "data.mat"
- which import the concentrations, feed and other relevant informations.
- Futhermore when imported into matlab data(i).accum is the total
- amount of a metabolite that should be in the bioreactor over time, it is
- the "sum of all added concentrations × volume added - sample volume × reactor concentration". The
- file also contains data(i).m_r which are the reacted amounts over
- time. The calculation of data(i).accum is made during the process of
- data(i).m_r calculation. The latter is described in the supplementary
- material of this paper
+ The folder ~/data contains data.xlsx with the feed DoE details and the simulations of 
+concentrations over time generated using a dynamic model. This is a synthetic dataset,
+the model was created based on the metabolic model proposed by Robitaille et al. (2015).
+It also contains "data.mat" which is the import the concentrations, feed and other relevant 
+informations. This file is generated using "/data/main_data_processing.m". When imported into 
+matlab data(i).accum is the total amount of a metabolite that should be in the bioreactor over
+time, it is the "sum of all added concentrations × volume added - sample volume × reactor concentration". 
+The file also contains data(i).m_r which are the reacted amounts over time. 
+The calculation of data(i).accum is made during the process of data(i).m_r calculation. 
+The latter is described in the supplementary material of this paper or the file "/data/read_me_data_processing.doc"
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
