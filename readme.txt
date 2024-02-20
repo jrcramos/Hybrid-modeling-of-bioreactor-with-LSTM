@@ -1,5 +1,6 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------
- Deep hybrid modeling of a HEK293 process: combining Long Short-Term Memory (LSTM) networks with first principles equations												
+ Deep hybrid modeling of a HEK293 process: combining Long Short-Term Memory (LSTM) networks with first principles equations			
+ https://doi.org/10.1002/bit.28668
  João R. C. Ramos1, #, José Pinto1, #, Gil Poiares-Oliveira1, Ludovic Peeters2, Patrick Dumas2, Rui Oliveira1																							
  1 LAQV-REQUIMTE, Department of Chemistry, NOVA School of Science and Technology, NOVA University Lisbon, 2829-516 Caparica, Portugal 												
  2 GSK, 89 rue de l'Institut, 1330 Rixensart, Belgium																							
