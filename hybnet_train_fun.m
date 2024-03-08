@@ -180,7 +180,7 @@ if dotraining
     [~]=hnetsimul(hnet,data,iplot,1);
     
     save([simfile '.mat'], 'hnet', 'data','wfinal','runs','nruns','ind')
-    
+    data=runs.data_iter{1, ind};
     
 else
     load([simfile '.mat']);
