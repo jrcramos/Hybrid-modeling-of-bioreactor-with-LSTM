@@ -65,6 +65,8 @@ niter=40000; % fixed for comparability
 nruns=1; % DoE data so only one training repetition performed, in this isntance nruns may be changed,
          % but the same permutation of experiments [1 2 3 4 9] will be used
          % (repmat([1 2 3 4 9],nruns,1))for training, because of known DoE conditions
+         % note that the random generator was fixed using rng(1803199136+1)
+         % inside the 'hybnet_train_fun.m' for reproducibility
 npcs= 4; % number of pricipal compenent for reaction correlation matrix
 Indtr=repmat([1 2 3 4 9],nruns,1); % use ccdesign DoE square for hybnet training
 Indcr=repmat([7],nruns,1); % use of diamond edge of ccdesign DoE for validation
